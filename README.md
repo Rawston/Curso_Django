@@ -22,4 +22,6 @@ poetry shell
 
 Rode o servidor local:
 
-
+```bash
+python manage.py runserver
+```
